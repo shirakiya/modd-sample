@@ -1,5 +1,9 @@
 # modd-sample
-The sample project for modd.
+The sample project for modd.  
+  
+This project is prepared for writing below article.  
+https://qiita.com/shirakiya/items/ce7d01c86a5d7b2aafad
+
 
 # Start
 ```
