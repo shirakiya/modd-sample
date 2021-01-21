@@ -4,7 +4,7 @@ The sample project for modd.
 ![sample](https://raw.githubusercontent.com/shirakiya/modd-sample/main/docs/sample.gif)  
   
 This project is prepared for writing below article.  
-https://qiita.com/shirakiya/items/ce7d01c86a5d7b2aafad
+https://shirakiya.hatenablog.com/entry/2021/01/22/025710
 
 
 # Start
